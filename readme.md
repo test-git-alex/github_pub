@@ -1,1 +1,1 @@
-# task 1 GitHub Privat
+# task 1 GitHub Public
